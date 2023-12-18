@@ -1,0 +1,7 @@
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase2\Day8\Assignment08Part2\bin\Debug\Assignment08Part2.exe.config
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase2\Day8\Assignment08Part2\bin\Debug\Assignment08Part2.exe
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase2\Day8\Assignment08Part2\bin\Debug\Assignment08Part2.pdb
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase2\Day8\Assignment08Part2\obj\Debug\Assignment08Part2.csproj.AssemblyReference.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase2\Day8\Assignment08Part2\obj\Debug\Assignment08Part2.csproj.CoreCompileInputs.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase2\Day8\Assignment08Part2\obj\Debug\Assignment08Part2.exe
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase2\Day8\Assignment08Part2\obj\Debug\Assignment08Part2.pdb
